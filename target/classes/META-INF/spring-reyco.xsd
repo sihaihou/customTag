@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://oss.housihai.com/schema/reyco"
+	xmlns:tns="http://oss.housihai.com/schema/reyco"
+	elementFormDefault="qualified">
+
+	<element name="reyco">
+		<complexType>
+			<attribute name="id" type="string"></attribute>
+			<attribute name="class" type="string"></attribute>
+		</complexType>
+	</element>
+	
+</schema>
+
